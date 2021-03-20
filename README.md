@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Irvin</h1>
 <h3 align="left">System Analyst but currently a Ph.D. candidate at UFPE</h3>
 
-- 🔭 I’m currently working on [Data Science project](https://irvin-s.github.io/)
+- 🔭 I’m currently working on [Data Science project](https://github.com/irvin-s/crime_occur_vis)
 
 - 🌱 I’m currently learning **Python, Machine Learning and Data vis**
 
