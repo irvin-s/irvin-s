@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Data Science project](https://github.com/irvin-s/crime_occur_vis)
 
-- 🌱 I’m currently learning **Python, Machine Learning and Data vis**
+- 🌱 I’m currently learning **Data Lake and Blockchain**
 
-- 💬 Ask me about **OS, PHP and MySQL**
+- 💬 Ask me about **Python, Machine Learning, OS, PHP and MySQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
