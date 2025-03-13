@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **SQL, Solidity, Python, Machine Learning, OS, PHP SQL Server and MySQL**
+- 💬 Ask me about **SQL, Solidity, Python, Machine Learning, OS, PHP, SQL Server and MySQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
